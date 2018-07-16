@@ -28,6 +28,13 @@ h4{
     margin-top:0;
     
 }
+h2{
+    font-family: 'Galada', cursive;
+    font-weight:400;
+    color:black;
+    font-size: 70px;
+    
+}
 
 
 /* NAVIGATION
@@ -99,6 +106,13 @@ hr.m{
     padding:100px 0;
     
 }
+.second{
+    background-color: #fee2e2;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin:0;
+}
+
 .description{
     font-family: 'Open Sans Condensed', sans-serif;
     font-size:30px;
@@ -144,3 +158,18 @@ hr.m{
 .contact-info .co{
     color: white;
 }
+/* CONTACT US PAGE */
+.details{
+padding-left:200px;
+padding-top:20px;
+height:600px;
+}
+.detail{
+    padding-top:100px;
+
+}
+p{
+    font-family: 'Open Sans Condensed', sans-serif; 
+    font-size:30px;
+}
+
